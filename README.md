@@ -1,6 +1,6 @@
 # threejs-journey
-Brief: Three.js入门课程记录
-Teacher: Bruno Simon
+Brief: Three.js入门课程记录<br>
+Teacher: Bruno Simon<br>
 Link: [https://threejs-journey.com/](https://threejs-journey.com/)
 
 ## Chapter 1 - Basics
