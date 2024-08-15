@@ -6,7 +6,7 @@ Link: [https://threejs-journey.com/](https://threejs-journey.com/)
 ## Chapter 1 - Basics
 1. ~~Introduction~~
 2. ~~What is WebGL and why use Three.js~~
-3. First Three.js Project
+3. ~~First Three.js Project~~
 4. ~~Transform objects~~
 5. Animations
 6. Cameras
