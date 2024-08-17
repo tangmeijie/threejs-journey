@@ -8,7 +8,7 @@ Link: [https://threejs-journey.com/](https://threejs-journey.com/)
 2. ~~What is WebGL and why use Three.js~~
 3. ~~First Three.js Project~~
 4. ~~Transform objects~~
-5. Animations
+5. ~~Animations~~
 6. Cameras
 7. Fullscreen and resizing
 8. Geometries
