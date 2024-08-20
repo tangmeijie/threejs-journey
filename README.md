@@ -9,7 +9,7 @@ Link: [https://threejs-journey.com/](https://threejs-journey.com/)
 3. ~~First Three.js Project~~
 4. ~~Transform objects~~
 5. ~~Animations~~
-6. Cameras
+6. ~~Cameras~~
 7. Fullscreen and resizing
 8. Geometries
 9. Debug UI
