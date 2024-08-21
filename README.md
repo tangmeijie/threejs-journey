@@ -11,7 +11,7 @@ Link: [https://threejs-journey.com/](https://threejs-journey.com/)
 5. ~~Animations~~
 6. ~~Cameras~~
 7. ~~Fullscreen and resizing~~
-8. Geometries
+8. ~~Geometries~~
 9. Debug UI
 10. Textures
 11. Materials
