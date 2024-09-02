@@ -15,5 +15,13 @@ Link: [https://threejs-journey.com/](https://threejs-journey.com/)
 9. ~~Debug UI~~
 10. ~~Textures~~
 11. ~~Materials~~
-12. 3D Text
-13. Go live
+12. ~~3D Text~~
+13. ~~Go live~~
+
+## Chapter 2 - Classic techniques
+14. Lights
+15. Shadows
+16. Haunted House
+17. Particles
+18. Galaxy Generator
+19. Scroll based animation
