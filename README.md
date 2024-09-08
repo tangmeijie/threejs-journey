@@ -34,7 +34,7 @@ npm run build
 13. ~~Go live~~
 
 ## Chapter 2 - Classic techniques
-14. Lights
+14. ~~Lights~~
 15. Shadows
 16. Haunted House
 17. Particles
