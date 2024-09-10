@@ -35,7 +35,7 @@ npm run build
 
 ## Chapter 2 - Classic techniques
 14. ~~Lights~~
-15. Shadows
+15. ~~Shadows~~
 16. Haunted House
 17. Particles
 18. Galaxy Generator
