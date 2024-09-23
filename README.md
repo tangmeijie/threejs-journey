@@ -37,6 +37,6 @@ npm run build
 14. ~~Lights~~
 15. ~~Shadows~~
 16. ~~Haunted House~~
-17. Particles
+17. ~~Particles~~
 18. Galaxy Generator
 19. Scroll based animation
