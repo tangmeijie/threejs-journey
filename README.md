@@ -39,4 +39,13 @@ npm run build
 16. ~~Haunted House~~
 17. ~~Particles~~
 18. ~~Galaxy Generator~~
-19. Scroll based animation
+19. ~~Scroll based animation~~
+
+## Chapter 3 - Advanced techniques
+20. Physics
+21. Imported models
+22. Raycaster and Mouse Events
+23. Custom models with Blender
+24. Environment map
+25. Realistic render
+26. Code structuring for bigger projects
