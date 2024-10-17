@@ -42,7 +42,7 @@ npm run build
 19. ~~Scroll based animation~~
 
 ## Chapter 3 - Advanced techniques
-20. Physics
+20. ~~Physics~~
 21. Imported models
 22. Raycaster and Mouse Events
 23. Custom models with Blender
