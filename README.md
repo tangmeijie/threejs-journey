@@ -44,7 +44,7 @@ npm run build
 ## Chapter 3 - Advanced techniques
 20. ~~Physics~~
 21. ~~Imported models~~
-22. Raycaster and Mouse Events
+22. ~~Raycaster and Mouse Events~~
 23. Custom models with Blender
 24. Environment map
 25. Realistic render
