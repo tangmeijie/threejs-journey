@@ -46,6 +46,6 @@ npm run build
 21. ~~Imported models~~
 22. ~~Raycaster and Mouse Events~~
 23. ~~Custom models with Blender~~
-24. Environment map
+24. ~~Environment map~~
 25. Realistic render
 26. Code structuring for bigger projects
