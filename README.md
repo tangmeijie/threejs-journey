@@ -49,3 +49,23 @@ npm run build
 24. ~~Environment map~~
 25. ~~Realistic render~~
 26. ~~Code structuring for bigger projects~~
+
+## Chapter 4 - Shaders
+27. Shaders
+28. Shader patterns
+29. Raging sea
+30. Animated galaxy
+31. Modified materials
+32. Coffee Smoke
+33. Hologram
+34. Fireworks
+35. Lights Shading
+36. Raging Sea Shading
+37. Halftone Shading
+38. Earth
+39. Particles Cursor Animation
+40. Particles Morphing
+41. GPU Flow Field Particles
+42. Wobbly Sphere
+43. Sliced Model
+44. Procedural Terrain
