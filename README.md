@@ -48,4 +48,4 @@ npm run build
 23. ~~Custom models with Blender~~
 24. ~~Environment map~~
 25. ~~Realistic render~~
-26. Code structuring for bigger projects
+26. ~~Code structuring for bigger projects~~
